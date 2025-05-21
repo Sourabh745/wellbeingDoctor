@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "564511324214",
+    "firebase_url": "https://stripe-backend-2b07b-default-rtdb.firebaseio.com",
+    "project_id": "stripe-backend-2b07b",
+    "storage_bucket": "stripe-backend-2b07b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564511324214:android:ac07ebd3028a3d01218097",
+        "android_client_info": {
+          "package_name": "com.wellbeingcustomer.development"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564511324214-rql2hb46679ba46oo93k8sbbpdjhjhlu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wellbeingcustomer.development",
+            "certificate_hash": "f436c7377fc668a9a22d1296ed61a0e267716e07"
+          }
+        },
+        {
+          "client_id": "564511324214-njb77j6ph0mrnf116id9kkjmo76rekuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuOoJ0nFapOHXw2xT87Z4SRB6Ez96_oQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564511324214-njb77j6ph0mrnf116id9kkjmo76rekuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564511324214:android:e401e25dd2bd1da0218097",
+        "android_client_info": {
+          "package_name": "com.wellbeingdoctor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564511324214-s5c389igsinapuobtfv8c9hfpg0hhs8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wellbeingdoctor",
+            "certificate_hash": "59253c0cff6fb6c04804ce95c1bd5d5d37b1e8cb"
+          }
+        },
+        {
+          "client_id": "564511324214-njb77j6ph0mrnf116id9kkjmo76rekuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuOoJ0nFapOHXw2xT87Z4SRB6Ez96_oQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564511324214-njb77j6ph0mrnf116id9kkjmo76rekuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
